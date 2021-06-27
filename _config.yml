@@ -69,8 +69,8 @@ social-network-links:
   #rss: false
   #email: "someone@example.com"
   facebook: kylebart
-  github: zetsueii
-  twitter: zetsueii
+  #github: zetsueii
+  #twitter: zetsueii
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: kylebartosiak
